@@ -1,2 +1,2 @@
-# carnatic-tools
-Computational tools for aiding understanding of Carnatic classical music
+# Musical Bridges - Carnatic Tools
+We have moved to a new site: [https://github.com/MTG/musical-bridges-carnatic-tools](https://github.com/MTG/musical-bridges-carnatic-tools)
